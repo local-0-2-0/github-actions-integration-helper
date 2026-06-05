@@ -1,5 +1,5 @@
 name: 'Veracode GitHub Workflow Tool Helper functions'
-description: 'Helper functions for GitHub Workflow Tool - Currently supports validations and process scan results.'
+description: 'Helper functions for GitHub Workflow Tool - Currently supports validations and process scan results1.'
 author: 'Vincent Deng'
 inputs:
   action:
